@@ -26,7 +26,7 @@
 * Есть элемент, например `.my-element__sub-element` (двойное
    подчеркивание обозначает дочерний элемент)
 * И может быть модификатор, например
-  `.my-element__sub-element—highlighted` (второй дефис
+  `.my-element__sub-element—-highlighted` (двойной дефис
   означает модификатор состояния).
 
 Более развернутое объяснение можно найти [тут][2].
@@ -81,3 +81,8 @@
 Для больших проектов, БЭМ — отличный выбор. Он требует
 некоторых усилий в начале работы, но экономит массу времени
 впоследствии. Так что — вперед!
+
+[1]: http://jelledesramaults.be
+
+[2]: http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax
+[3]: http://necolas.github.io/normalize.css/
